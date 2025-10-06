@@ -1,6 +1,8 @@
 <?php
 
-
+/**
+ * Class Animal
+ */
 class Animal
 {
     protected static int $counter = 0;
